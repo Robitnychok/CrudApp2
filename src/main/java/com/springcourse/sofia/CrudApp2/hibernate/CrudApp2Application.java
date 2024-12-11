@@ -1,4 +1,4 @@
-package com.springcourse.sofia.CrudApp2;
+package com.springcourse.sofia.CrudApp2.hibernate;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,6 +1,6 @@
-package com.springcourse.sofia.CrudApp2.dao;
+package com.springcourse.sofia.CrudApp2.jdbc.dao;
 
-import com.springcourse.sofia.CrudApp2.models.Person;
+import com.springcourse.sofia.CrudApp2.jdbc.models.Person;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BatchPreparedStatementSetter;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;

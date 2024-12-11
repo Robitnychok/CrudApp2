@@ -1,8 +1,8 @@
-package com.springcourse.sofia.CrudApp2.util;
+package com.springcourse.sofia.CrudApp2.jdbc.util;
 
 
-import com.springcourse.sofia.CrudApp2.dao.PersonDAO;
-import com.springcourse.sofia.CrudApp2.models.Person;
+import com.springcourse.sofia.CrudApp2.jdbc.dao.PersonDAO;
+import com.springcourse.sofia.CrudApp2.jdbc.models.Person;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;

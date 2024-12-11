@@ -1,4 +1,4 @@
-package com.springcourse.sofia.CrudApp2.models;
+package com.springcourse.sofia.CrudApp2.jdbc.models;
 
 import jakarta.validation.constraints.*;
 

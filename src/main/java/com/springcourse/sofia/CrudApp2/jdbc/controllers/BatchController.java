@@ -1,6 +1,6 @@
-package com.springcourse.sofia.CrudApp2.controllers;
+package com.springcourse.sofia.CrudApp2.jdbc.controllers;
 
-import com.springcourse.sofia.CrudApp2.dao.PersonDAO;
+import com.springcourse.sofia.CrudApp2.jdbc.dao.PersonDAO;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
